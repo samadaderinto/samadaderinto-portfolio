@@ -48,7 +48,7 @@ body>img {
   height: 300px;
   width: 440px;
   font-weight: 900;
-  text-transform: uppercase; 
+  text-transform: capitalize; 
   word-spacing: 1px;
   animation: fadeBounce 1.5s;
   margin-right: 110px;
