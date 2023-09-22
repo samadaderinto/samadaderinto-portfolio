@@ -2,49 +2,59 @@
 
 ## Summary
 
-Senior Software Developer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C# .NET, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
+A Junior Software Developer/ Engineer specializing in web application development. Experienced with all stages of the development cycle for dynamic web projects. Well-versed in numerous programming languages including C++, Python and JavaScript/TypeScript. Strong background in both accounting/auditing and software development. Mitigated the gap between end users and developers, co-designed and built scalable solutions.
 
 
 ## Experience
 
-**Software Developer** @ [Ernst & Young](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
+**Founding Software Developer** @ [Proace International](https://www.ey.com/) _(Nov 2018 - Nov 2021)_
 
 Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
 - Detailed achievements:
-  - Collaborated with colleagues from worldwide to implement the Disaster Recovery Project. Completed ahead of the original schedule and saved budget up to 30%.
-  - Optimized deployment process and reduced manual work to accelerate product deployment by over 70%.
-  - Delivered virtual and live classroom training for employees(the cumulative number of trainees exceeded 500).
-- _**Technologies used:**_ C#, MSSQL, Python, React.js
+  -  Empower a dedicated team of developers to craft the essential foundation of our the software product.
+  - Enhanced the security of our applications, bolstering defences for both the frontend and backend to fortify against data theft and ensure robust protection.
+  - Collaborated closely with fellow developers to craft intricate algorithms, designed flowcharts, forging a harmonious symphony of innovation.
+  - Documented phases of development and closely monitored dynamic systems
+  - Established Libraries/Tools is up to mark using recent technologies
+  - Deployed application infrastructure through the strategic orchestration of containers with the powerful K8 engine, leveraging trusted tools for containerization and virtualization.
+  - Engineered a robust CI/CD pipeline for software delivery and seamless integration.
+
+- _**Technologies used:**_ Django, TypeScript, MySQL, Python, React.js, Docker, Kubernetes, Jenkins
 
 &nbsp;
 
-**Staff Auditor** @ [Deloitte & Touche](https://www2.deloitte.com/global/en.html) _(July 2017 - Nov 2018)_
+**Student tutor** @ [ecxUnilag](https://ecx-unilag.github.io/finale/) _(February 2023 - present)_ 
 
 Planned and conducted operational and ﬁnancial audits to conﬁrm ﬁnancial statements are fairly presented in alignment with IFRS.
 - Detailed achievements:
-  - Delivered internal audit projects for major clients in the manufacturing industry with a focus on gap assessments/reviews of business processes and internal control.
-  - Supervised assigned auditing staffs to evaluate performance and maintain standards.
+     - Managed a process re-engineering project to improve and consolidate end-to-end service learning
+     - Restructured communication among 5 departments and cut down paperwork by 60%. 
+     - Delivered unwavering, in-depth guidance to students in Python programming, covering Object-Oriented, Programming and Data Structures and Algorithms.
 
 &nbsp;
 
-**Audit Intern** @ [KPMG](https://home.kpmg/) _(July 2015 - July 2015)_
+**SDE Intern** @ [Zuri/HNG](https://home.kpmg/) _(March 2020 - August 2021)_
 
-Performed analytical procedures and analyses to detect unusual ﬁnancial relationships.
+
+Completed full lifecycle application development to enterprise business applications including requirement analysis, system design, development, unit testing, implementation, testing support, performance tuning, maintenance, and post-production support.
+
+- Detailed achievements:
+  - Design client-side and server-side architecture
+  - Tested software to ensure responsiveness and efficiency
+  - Improved security by adopting the zero-trust authentication model. 
+  - Integrated software components and third-party programs.
+  - Developed responsive, interactive dynamic user interfaces
 
 ## Education
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
-- **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
+# 👨‍🎓 Education
+`2021-present` [University of Lagos](https://www.unilag.edu.ng/)
+- **B.Eng.** in **Electrical and Electronics Engineering**
 - Courses: Computer Organization, Discrete Mathematics, Computer Program-
 ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+- GPA: 4.4/5.0
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
-- **Extension program** in Electrical Engineering
-- Courses: Operating Systems
-- GPA: 4.3/4.3
-
-`2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
+<!-- `2020–2022` [Fu Jen Catholic University](https://www.fju.edu.tw/indexEN.jsp)
 - **Extension program** in Software Engineering and Digital Innovation Applications, and Information Management 
 - Courses: Algorithms, Linear Algebra, Database Administration
 - GPA: 4.0/4.0
@@ -56,7 +66,7 @@ ming(I), Object-Oriented Programming, Probability, Digital Logic Design
 
 `2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
 - **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+- GPA: 3.88/4.0 -->
 
 ## Skills
 
@@ -66,23 +76,25 @@ ming(I), Object-Oriented Programming, Probability, Digital Logic Design
 - Web Development (Frontend & Backend)
 
 ### Programming languages
-- C# .NET
+
 - Python
+  - Django/ Django rest framework
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
+<!-- - T-SQL
+- C# .NET
+- Go -->
 - C++
-- Java
-- VB.NET/VBA
+<!-- - Java
+- VB.NET/VBA -->
 
 ## Certificates
-- Certified Public Accountant (Taiwan)
-
+- Data Structure and Algorithm [(Udemy)](https://docs.google.com/document/d/1tYeHPRvwJ780GfZ2Simt7r9wLG_GJyU_NmYi_bhgpEY/edit?usp=sharing).
+<!-- 
 ## Accomplishments
 **Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them.  -->
 
 ## Languages
-**English**: C1
-**Chinese**: Native
+**English**: Fluent
+**Yoruba**: Native

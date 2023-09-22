@@ -1,32 +1,43 @@
 # 💻 Skills
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
+## General Skills
+- Systems Architecture/Design
 - Web Development (Frontend & Backend)
+- Django
+- Django rest framework
+- React.js
+- RabbitMQ
+- Celery
+- Nginx
+- ElasticSearch
+- Agile and Scrum
+- BDD/TDD
+- SEO
+
+<!-- - Desktop App Development -->
 
 ## Programming languages
-- C# .NET
+<!-- - C# .NET -->
 - Python
 - JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
 - C++
-- Java
-- VB.NET/VBA
+<!-- - T-SQL
+- Go -->
+<!-- - Java
+- VB.NET/VBA -->
 
 ## Databases
-- MSSQL
+<!-- - MSSQL -->
 - PostgreSQL
 - MySQL
-- SQLite
+- Redis
+<!-- - SQLite -->
 
 ## Cloud
-- Azure
-- GCP
+<!-- - Azure
+- GCP -->
 - Heroku
-- Render
+- Digital Ocean
 
-## Vcs
+## Version controls
 - Git

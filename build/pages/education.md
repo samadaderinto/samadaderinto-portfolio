@@ -1,14 +1,18 @@
 # 👨‍🎓 Education
-`2022-present` [RWTH Aachen University](https://www.rwth-aachen.de/)
-- **M.Sc.** in Software Systems Engineering
+`2021-present` [University of Lagos](https://www.unilag.edu.ng/)
+- **B.Eng.** in **Electrical and Electronics Engineering**
+- Courses: Computer Organization, Discrete Mathematics, Computer Program-
+ming(I), Object-Oriented Programming, Probability, Digital Logic Design
+- GPA: 4.4/5.0
 
-`2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
+
+<!-- `2021-2022` [National Taipei University of Technology](https://www-en.ntut.edu.tw/)
 - **Extension program** in Computer Science, Electrical Engineering, and Electronic Engineering
 - Courses: Computer Organization, Discrete Mathematics, Computer Program-
 ming(I), Object-Oriented Programming, Probability, Digital Logic Design
-- GPA: 4.0/4.0
+- GPA: 4.0/4.0 -->
 
-`2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
+<!-- `2021-2022` [National Taiwan Normal University](https://en.ntnu.edu.tw/)
 - **Extension program** in Electrical Engineering
 - Courses: Operating Systems
 - GPA: 4.3/4.3
@@ -25,4 +29,4 @@ ming(I), Object-Oriented Programming, Probability, Digital Logic Design
 
 `2012-2016` [National Cheng Kung University](https://www.ncku.edu.tw/index.php?Lang=en)
 - **B.B.A** in Accountancy
-- GPA: 3.88/4.0
+- GPA: 3.88/4.0 -->
